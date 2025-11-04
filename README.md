@@ -1,0 +1,2 @@
+## Abstract
+This project is a real-time OpenGL visualization of the gravitational 3-body problem. Three bodies interact through pairwise Newtonian forces, and their motion is updated using numerical time-step integration. The simulation supports both physically realistic units (SI) and normalized units to improve numerical stability and rendering scale, demonstrating orbital mechanics and chaotic motion in an interactive environment.
